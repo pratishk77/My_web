@@ -5,6 +5,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-size:100% 100%;
+    border-style: solid;
 }
 
 .container {
@@ -15,7 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 6px;
+    padding: 5px;
     background-color: #000000;
 }
 
@@ -34,12 +35,12 @@ body {
     float: left;
     width: 175px;
     margin: 0;
-    padding: 1em;
+    padding: 0em;
 }
 
 .content {
     margin-left: 210px;
-    border-left: 4px solid #000000;
+    border-left: 3px solid #000000;
     padding: 1em;
     overflow: hidden;
 }

@@ -1,11 +1,7 @@
 body {
     margin: 0;
     box-sizing: border-box;
-    background-image: url("https://ak6.picdn.net/shutterstock/videos/22464946/thumb/1.jpg");
-    background-size: cover;
-    background-attachment: fixed;
-    background-size:100% 100%;
-    border-style: solid;
+    
 }
 
 .container {
@@ -90,7 +86,7 @@ tr td i.fas {
 }
 
 .footer {
-    padding: 55px 20px;
+    padding:30px;
     background-color: #000000;
     color: white;
     text-align: center;

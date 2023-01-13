@@ -89,6 +89,21 @@ th {
     padding: 8px;
 }
 
+a:link {
+    color: rgb(199, 4, 4);
+  }
+  /* visited link */
+  a:visited {
+    color: rgb(3, 95, 131);
+  }
+  /* mouse over link */
+  a:hover {
+    color: #000000;
+  }
+  /* selected link */
+  a:active {
+    color: #5d01c6;
+  }
 tr:nth-child(1) {
     background-color: #000000;
     color: rgb(255, 255, 255);
